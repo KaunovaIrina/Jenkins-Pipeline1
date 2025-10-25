@@ -118,5 +118,7 @@ curl -X POST JENKINS_URL/job/app-ci-pipeline/buildWithParameters   --user user:t
 - [Best Practices for Jenkinsfiles](https://www.jenkins.io/doc/book/pipeline/best-practices/)
 
 ---
+<img width="800" height="800" alt="02" src="https://github.com/user-attachments/assets/1a301f10-563a-46c3-95c0-f29714dcbf1b" />
 
 📘 *Проект создан для демонстрации принципов CI/CD и может быть адаптирован под любую технологию (Node.js, Java, Python, Go и т.д.).*
+
